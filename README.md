@@ -1,11 +1,19 @@
 # PyTorch Tutorials 2024
 
+Welcome to my PyTorch Tutorials repository!
 
-I am going to learn about PyTorch and I would like to share my learning with you.
+As I embark on my journey to learn PyTorch, I aim to share my insights and knowledge with the community through this repository. Whether you're a beginner or looking to deepen your understanding, I hope you find these resources valuable.
 
-I hope you enjoy this.
+### What to Expect
 
-I will try to make good notebooks for you if you want to learn reading via notebook.
+- **Comprehensive Notebooks**: I will be creating detailed Jupyter notebooks to facilitate your learning process. These notebooks will cover various aspects of PyTorch, making it easier to grasp key concepts through hands-on examples.
+  
+- **Curated Tutorials**: The content will be based on the [PyTorch With Examples](https://pytorch.org/tutorials/beginner/pytorch_with_examples.html) tutorial, complemented by additional insights and materials that I will integrate.
 
-I will use a tutorial from the {PyTorch website}{https://pytorch.org/tutorials/beginner/pytorch_with_examples.html} and I might also add some stuff by myself. 
+- **Practical Project**: In addition to tutorials, I will undertake a practical project to demonstrate how to apply PyTorch techniques to real-world applications. This project aim to provide a concrete understanding of how to implement and optimize PyTorch models.
+
+Feel free to explore, learn, and contribute. Your feedback and contributions are highly appreciated!
+
+Happy learning!
+
 
